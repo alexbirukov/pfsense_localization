@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-14 09:53+0500\n"
-"PO-Revision-Date: 2015-10-14 22:48+0500\n"
+"PO-Revision-Date: 2015-10-19 13:01+0500\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -667,7 +667,7 @@ msgstr ""
 
 #: etc/inc/filter.inc:72
 msgid "Invalid IP header"
-msgstr ""
+msgstr "Неверный IP заголовок"
 
 #: etc/inc/filter.inc:73
 msgid "Timestamp"
@@ -869,7 +869,7 @@ msgstr ""
 #: etc/inc/services.inc:2118 etc/inc/system.inc:895 etc/inc/system.inc:986
 #: etc/inc/system.inc:1406 etc/inc/system.inc:1769 etc/inc/system.inc:1909
 msgid "done."
-msgstr ""
+msgstr "завершено."
 
 #: etc/inc/filter.inc:314
 msgid "Setting up logging information"
@@ -903,11 +903,11 @@ msgstr ""
 
 #: etc/inc/filter.inc:451
 msgid "Running plugins"
-msgstr ""
+msgstr "Запущенные плагины"
 
 #: etc/inc/filter.inc:455
 msgid "Running plugins (pf)"
-msgstr ""
+msgstr "Запущенные плагины (pf)"
 
 #: etc/inc/filter.inc:457
 msgid "Plugins completed."
@@ -917,7 +917,7 @@ msgstr ""
 #: usr/local/www/restart_httpd.php:56 usr/local/www/restart_httpd.php:59
 #: usr/local/www/restart_httpd.php:62
 msgid "Done"
-msgstr ""
+msgstr "Завершено"
 
 #: etc/inc/filter.inc:738
 msgid "Creating gateway group item..."
@@ -951,43 +951,43 @@ msgstr ""
 
 #: etc/inc/filter.inc:1398
 msgid "static route"
-msgstr ""
+msgstr "статический маршрут"
 
 #: etc/inc/filter.inc:1409
 msgid "DHCP alias address"
-msgstr ""
+msgstr "Псевдонимы DHCP адресов"
 
 #: etc/inc/filter.inc:1446
 msgid "PPTP server"
-msgstr ""
+msgstr "PPTP сервер"
 
 #: etc/inc/filter.inc:1455
 msgid "PPPoE server"
-msgstr ""
+msgstr "PPPoE сервер"
 
 #: etc/inc/filter.inc:1464
 msgid "L2TP server"
-msgstr ""
+msgstr "L2TP сервер"
 
 #: etc/inc/filter.inc:1473
 msgid "OpenVPN server"
-msgstr ""
+msgstr "OpenVPN сервер"
 
 #: etc/inc/filter.inc:1480
 msgid "OpenVPN client"
-msgstr ""
+msgstr "OpenVPN клиент"
 
 #: etc/inc/filter.inc:1488
 msgid "IPsec client"
-msgstr ""
+msgstr "IPsec клиент"
 
 #: etc/inc/filter.inc:1521
 msgid "Auto created rule for ISAKMP"
-msgstr ""
+msgstr "Автоматически созданное правило для ISAKMP"
 
 #: etc/inc/filter.inc:1531
 msgid "Auto created rule"
-msgstr ""
+msgstr "Автоматически созданное правило"
 
 #: etc/inc/filter.inc:1630
 msgid "Creating 1:1 rules..."
@@ -1105,11 +1105,11 @@ msgstr ""
 
 #: etc/inc/functions.inc:113
 msgid "unread notice"
-msgstr ""
+msgstr "непрочитанное уведомление"
 
 #: etc/inc/functions.inc:115
 msgid "unread notices"
-msgstr ""
+msgstr "непрочитанные уведомления"
 
 #: etc/inc/gwlb.inc:939
 #, php-format
@@ -1373,7 +1373,7 @@ msgstr ""
 #: usr/local/www/services_dhcp_edit.php:496
 #: usr/local/www/services_dhcpv6.php:697
 msgid "Dynamic DNS"
-msgstr ""
+msgstr "Динамический DNS"
 
 #: etc/inc/ipsec.inc:54
 msgid "Peer IP address"
@@ -1394,7 +1394,7 @@ msgstr ""
 #: usr/local/www/system_advanced_misc.php:438
 #: usr/local/www/vpn_ipsec_phase2.php:629
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 #: etc/inc/ipsec.inc:598
 msgid ""
@@ -1484,11 +1484,11 @@ msgstr ""
 
 #: etc/inc/openvpn.inc:223
 msgid "None (No Encryption)"
-msgstr ""
+msgstr "Нет (Без шифрования)"
 
 #: etc/inc/openvpn.inc:237
 msgid "None (No Authentication)"
-msgstr ""
+msgstr "Нет (Без аутентификации)"
 
 #: etc/inc/openvpn.inc:280
 #, php-format
@@ -1624,115 +1624,115 @@ msgstr ""
 
 #: etc/inc/pfsense-utils.inc:2659 etc/inc/pfsense-utils.inc:2701
 msgid "English"
-msgstr ""
+msgstr "Английский"
 
 #: etc/inc/pfsense-utils.inc:2660 etc/inc/pfsense-utils.inc:2713
 msgid "Portuguese (Brazil)"
-msgstr ""
+msgstr "Пртугальский (Бразилия)"
 
 #: etc/inc/pfsense-utils.inc:2661 etc/inc/pfsense-utils.inc:2718
 msgid "Turkish"
-msgstr ""
+msgstr "Турецкий"
 
 #: etc/inc/pfsense-utils.inc:2695
 msgid "Albanian"
-msgstr ""
+msgstr "Албанский"
 
 #: etc/inc/pfsense-utils.inc:2696
 msgid "Bulgarian"
-msgstr ""
+msgstr "Болгарский"
 
 #: etc/inc/pfsense-utils.inc:2697
 msgid "Chinese (Simplified)"
-msgstr ""
+msgstr "Китайский (упрощённый)"
 
 #: etc/inc/pfsense-utils.inc:2698
 msgid "Chinese (Traditional)"
-msgstr ""
+msgstr "Китайский (традиционный)"
 
 #: etc/inc/pfsense-utils.inc:2699
 msgid "Dutch"
-msgstr ""
+msgstr "Голландский"
 
 #: etc/inc/pfsense-utils.inc:2700
 msgid "Danish"
-msgstr ""
+msgstr "Датский"
 
 #: etc/inc/pfsense-utils.inc:2702
 msgid "Finnish"
-msgstr ""
+msgstr "Финский"
 
 #: etc/inc/pfsense-utils.inc:2703
 msgid "French"
-msgstr ""
+msgstr "Французский"
 
 #: etc/inc/pfsense-utils.inc:2704
 msgid "German"
-msgstr ""
+msgstr "Немецкий"
 
 #: etc/inc/pfsense-utils.inc:2705
 msgid "Greek"
-msgstr ""
+msgstr "Греческий"
 
 #: etc/inc/pfsense-utils.inc:2706
 msgid "Hungarian"
-msgstr ""
+msgstr "Венгерский"
 
 #: etc/inc/pfsense-utils.inc:2707
 msgid "Italian"
-msgstr ""
+msgstr "Итальянский"
 
 #: etc/inc/pfsense-utils.inc:2708
 msgid "Japanese"
-msgstr ""
+msgstr "Японский"
 
 #: etc/inc/pfsense-utils.inc:2709
 msgid "Korean"
-msgstr ""
+msgstr "Корейский"
 
 #: etc/inc/pfsense-utils.inc:2710
 msgid "Latvian"
-msgstr ""
+msgstr "Латвийский"
 
 #: etc/inc/pfsense-utils.inc:2711
 msgid "Norwegian (Bokmal)"
-msgstr ""
+msgstr "Норвежский"
 
 #: etc/inc/pfsense-utils.inc:2712
 msgid "Polish"
-msgstr ""
+msgstr "Польский"
 
 #: etc/inc/pfsense-utils.inc:2714
 msgid "Portuguese (Portugal)"
-msgstr ""
+msgstr "Португальский (Португалия)"
 
 #: etc/inc/pfsense-utils.inc:2715
 msgid "Romanian"
-msgstr ""
+msgstr "Румынский"
 
 #: etc/inc/pfsense-utils.inc:2716
 msgid "Russian"
-msgstr ""
+msgstr "Русский"
 
 #: etc/inc/pfsense-utils.inc:2717
 msgid "Slovenian"
-msgstr ""
+msgstr "Словенский"
 
 #: etc/inc/pfsense-utils.inc:2719
 msgid "Spanish"
-msgstr ""
+msgstr "Испанский"
 
 #: etc/inc/pfsense-utils.inc:2720
 msgid "Swedish"
-msgstr ""
+msgstr "Шведский"
 
 #: etc/inc/pfsense-utils.inc:2721
 msgid "Slovak"
-msgstr ""
+msgstr "Словацкий"
 
 #: etc/inc/pfsense-utils.inc:2722
 msgid "Czech"
-msgstr ""
+msgstr "Чешский"
 
 #: etc/inc/pkg-utils.inc:219
 msgid "Resyncing configuration for all packages."
@@ -1796,61 +1796,61 @@ msgstr ""
 #: etc/inc/pkg-utils.inc:667
 #, php-format
 msgid "Failed to install package: %s."
-msgstr ""
+msgstr "Ошибка установки пакета: %s."
 
 #: etc/inc/pkg-utils.inc:668
 msgid "Failed to install package."
-msgstr ""
+msgstr "Ошибка установки пакета."
 
 #: etc/inc/pkg-utils.inc:672
 msgid "Writing configuration... "
-msgstr ""
+msgstr "Сохранение конфигурации"
 
 #: etc/inc/pkg-utils.inc:675
 #, php-format
 msgid "Successfully installed package: %s."
-msgstr ""
+msgstr "Успешная установка пакета: %s."
 
 #: etc/inc/pkg-utils.inc:709
 #, php-format
 msgid "The %s package is not installed.%sInstallation aborted."
-msgstr ""
+msgstr "Пакет %s не установлен. %sУстановка отменена."
 
 #: etc/inc/pkg-utils.inc:724
 msgid "Installing"
-msgstr ""
+msgstr "Установка"
 
 #: etc/inc/pkg-utils.inc:724
 msgid "and its dependencies."
-msgstr ""
+msgstr "и его зависимости."
 
 #: etc/inc/pkg-utils.inc:725
 msgid "Downloading"
-msgstr ""
+msgstr "Загрузка"
 
 #: etc/inc/pkg-utils.inc:725
 msgid "and its dependencies... "
-msgstr ""
+msgstr "и его зависимости..."
 
 #: etc/inc/pkg-utils.inc:737
 msgid "Package WAS NOT installed properly."
-msgstr ""
+msgstr "Пакет НЕ БЫЛ установлен должным образом."
 
 #: etc/inc/pkg-utils.inc:751 etc/inc/pkg-utils.inc:1491
 msgid "Loading package configuration... "
-msgstr ""
+msgstr "Загрузка конфигурации пакета..."
 
 #: etc/inc/pkg-utils.inc:756
 msgid "Configuring package components...\n"
-msgstr ""
+msgstr "Настройка компонентов пакета...\n"
 
 #: etc/inc/pkg-utils.inc:762 etc/inc/pkg-utils.inc:1077
 msgid "System files... "
-msgstr ""
+msgstr "Системные файлы..."
 
 #: etc/inc/pkg-utils.inc:781 etc/inc/pkg-utils.inc:1053
 msgid "Loading package instructions..."
-msgstr ""
+msgstr "Загрузка инструкций пакета..."
 
 #: etc/inc/pkg-utils.inc:796
 msgid "Custom commands..."
@@ -1878,7 +1878,7 @@ msgstr ""
 
 #: etc/inc/pkg-utils.inc:877 etc/inc/pkg-utils.inc:1017
 msgid "Services... "
-msgstr ""
+msgstr "Службы..."
 
 #: etc/inc/pkg-utils.inc:892
 msgid "Loading package configuration... failed!"
@@ -1927,7 +1927,7 @@ msgstr ""
 #: etc/inc/pkg-utils.inc:1099
 #, php-format
 msgid "Remove '%s'"
-msgstr ""
+msgstr "Удалить '%s'"
 
 #: etc/inc/pkg-utils.inc:1106
 msgid "Auxiliary files... "
@@ -1939,11 +1939,11 @@ msgstr ""
 
 #: etc/inc/pkg-utils.inc:1139
 msgid "Configuration... "
-msgstr ""
+msgstr "Настройка..."
 
 #: etc/inc/pkg-utils.inc:1222
 msgid "One moment please, reinstalling packages...\n"
-msgstr ""
+msgstr "Подождите пожалуйта, идёт переустановка пакета...\n"
 
 #: etc/inc/pkg-utils.inc:1223
 msgid " >>> Trying to fetch package info..."
@@ -1966,19 +1966,19 @@ msgstr ""
 
 #: etc/inc/pkg-utils.inc:1241
 msgid "List of packages to reinstall: "
-msgstr ""
+msgstr "Список пакетов для переустановки:"
 
 #: etc/inc/pkg-utils.inc:1248
 msgid "Uninstalling package"
-msgstr ""
+msgstr "Удаление пакета"
 
 #: etc/inc/pkg-utils.inc:1250
 msgid "Finished uninstalling package"
-msgstr ""
+msgstr "Удаления пакета завершено"
 
 #: etc/inc/pkg-utils.inc:1251
 msgid "Reinstalling package"
-msgstr ""
+msgstr "Переустановка пакета"
 
 #: etc/inc/pkg-utils.inc:1253
 msgid "Finished installing package"
@@ -5940,12 +5940,12 @@ msgstr ""
 
 #: usr/local/www/diag_arp.php:262 usr/local/www/fbegin.inc:206
 msgid "ARP Table"
-msgstr ""
+msgstr "Таблица ARP"
 
 #: usr/local/www/diag_arp.php:272 usr/local/www/diag_ndp.php:117
 #: usr/local/www/firewall_rules.php:300
 msgid "Loading, please wait..."
-msgstr ""
+msgstr "Пожалуйста подождите, идёт загрузка..."
 
 #: usr/local/www/diag_arp.php:315 usr/local/www/diag_ndp.php:134
 #: usr/local/www/interfaces.php:1694
@@ -6026,7 +6026,7 @@ msgstr "Имя хоста"
 #: usr/local/www/vpn_pppoe_edit.php:383
 #: usr/local/www/widgets/widgets/wake_on_lan.widget.php:45
 msgid "Interface"
-msgstr ""
+msgstr "Интерфейс"
 
 #: usr/local/www/diag_arp.php:343
 msgid "NOTE: Local IPv6 peers use"
@@ -6042,11 +6042,11 @@ msgstr ""
 
 #: usr/local/www/diag_authentication.php:52
 msgid "is not a valid authentication server"
-msgstr ""
+msgstr "неверный сервер аутентификации"
 
 #: usr/local/www/diag_authentication.php:55
 msgid "A username and password must be specified."
-msgstr ""
+msgstr "Необходимо указать имя пользователя и пароль."
 
 #: usr/local/www/diag_authentication.php:59 usr/local/www/diag_logs_vpn.php:177
 #: usr/local/www/system_groupmanager.php:533
@@ -6055,11 +6055,11 @@ msgstr ""
 #: usr/local/www/vpn_l2tp_users_edit.php:39
 #: usr/local/www/vpn_pptp_users_edit.php:138
 msgid "User"
-msgstr ""
+msgstr "Пользователь"
 
 #: usr/local/www/diag_authentication.php:59
 msgid "authenticated successfully."
-msgstr ""
+msgstr "успешная аутентификация."
 
 #: usr/local/www/diag_authentication.php:61
 msgid "This user is a member of these groups"
@@ -6067,20 +6067,20 @@ msgstr ""
 
 #: usr/local/www/diag_authentication.php:65
 msgid "Authentication failed."
-msgstr ""
+msgstr "Ошибка аутентификации."
 
 #: usr/local/www/diag_authentication.php:69 usr/local/www/fbegin.inc:207
 #: usr/local/www/interfaces.php:3238
 #: usr/local/www/services_captiveportal.php:662
 #: usr/local/www/services_captiveportal.php:1039
 msgid "Authentication"
-msgstr ""
+msgstr "Аутентификация"
 
 #: usr/local/www/diag_authentication.php:91
 #: usr/local/www/system_authservers.php:85
 #: usr/local/www/system_usermanager_settings.php:141
 msgid "Authentication Server"
-msgstr ""
+msgstr "Сервер аутентификации"
 
 #: usr/local/www/diag_authentication.php:107
 #: usr/local/www/firewall_aliases_edit.php:602
@@ -6110,7 +6110,7 @@ msgstr ""
 #: usr/local/www/vpn_pptp_users_edit.php:150
 #: usr/local/www/widgets/widgets/captive_portal_status.widget.php:107
 msgid "Username"
-msgstr ""
+msgstr "Имя пользователя"
 
 #: usr/local/www/diag_authentication.php:113 usr/local/www/interfaces.php:2625
 #: usr/local/www/interfaces.php:2699 usr/local/www/interfaces.php:2808
@@ -6136,12 +6136,12 @@ msgstr ""
 #: usr/local/www/vpn_pptp_users_edit.php:82
 #: usr/local/www/vpn_pptp_users_edit.php:156
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: usr/local/www/diag_authentication.php:121 usr/local/www/diag_smart.php:370
 #: usr/local/www/diag_testport.php:181
 msgid "Test"
-msgstr ""
+msgstr "Тест"
 
 #: usr/local/www/diag_backup.php:162
 msgid "Restored base_package menus after configuration restore."
@@ -6155,7 +6155,7 @@ msgstr ""
 #: usr/local/www/services_dnsmasq_edit.php:244
 #: usr/local/www/services_unbound_host_edit.php:247
 msgid "Aliases"
-msgstr ""
+msgstr "Псевдонимы"
 
 #: usr/local/www/diag_backup.php:183
 msgid "Captive Portal Vouchers"
@@ -6163,17 +6163,17 @@ msgstr ""
 
 #: usr/local/www/diag_backup.php:185 usr/local/www/fbegin.inc:144
 msgid "DHCP Server"
-msgstr ""
+msgstr "DHCP Сервер"
 
 #: usr/local/www/diag_backup.php:186 usr/local/www/services_dhcpv6.php:533
 #: usr/local/www/services_dhcpv6.php:543
 #: usr/local/www/services_router_advertisements.php:262
 msgid "DHCPv6 Server"
-msgstr ""
+msgstr "DHCPv6 Сервер"
 
 #: usr/local/www/diag_backup.php:187
 msgid "Firewall Rules"
-msgstr ""
+msgstr "Правила Фаервола"
 
 #: usr/local/www/diag_backup.php:188
 #: usr/local/www/diag_logs_filter_summary.php:48 usr/local/www/fbegin.inc:180
@@ -6201,11 +6201,11 @@ msgstr ""
 #: usr/local/www/services_dnsmasq.php:269
 #: usr/local/www/status_interfaces.php:60
 msgid "Interfaces"
-msgstr ""
+msgstr "Интерфейсы"
 
 #: usr/local/www/diag_backup.php:189
 msgid "IPSEC"
-msgstr ""
+msgstr "IPSEC"
 
 #: usr/local/www/diag_backup.php:190 usr/local/www/fbegin.inc:129
 #: usr/local/www/firewall_nat.php:167 usr/local/www/firewall_nat_1to1.php:148
@@ -6217,22 +6217,22 @@ msgstr ""
 #: usr/local/www/firewall_nat_out_edit.php:343
 #: usr/local/www/firewall_virtual_ip.php:307
 msgid "NAT"
-msgstr ""
+msgstr "NAT"
 
 #: usr/local/www/diag_backup.php:192 usr/local/www/fbegin.inc:437
 #: usr/local/www/pkg_mgr.php:59 usr/local/www/pkg_mgr.php:106
 #: usr/local/www/pkg_mgr_install.php:58 usr/local/www/pkg_mgr_installed.php:52
 #: usr/local/www/pkg_mgr_installed.php:81
 msgid "Package Manager"
-msgstr ""
+msgstr "Менеджер пакетов"
 
 #: usr/local/www/diag_backup.php:193
 msgid "PPTP Server"
-msgstr ""
+msgstr "PPTP Сервер"
 
 #: usr/local/www/diag_backup.php:194
 msgid "RRD Data"
-msgstr ""
+msgstr "RRD Данные"
 
 #: usr/local/www/diag_backup.php:195
 msgid "Scheduled Tasks"
@@ -6292,7 +6292,7 @@ msgstr "Система"
 
 #: usr/local/www/diag_backup.php:198
 msgid "Static routes"
-msgstr ""
+msgstr "Статические маршруты"
 
 #: usr/local/www/diag_backup.php:199
 msgid "System tunables"
@@ -6300,7 +6300,7 @@ msgstr ""
 
 #: usr/local/www/diag_backup.php:200
 msgid "SNMP Server"
-msgstr ""
+msgstr "SNMP Сервер"
 
 #: usr/local/www/diag_backup.php:201 usr/local/www/fbegin.inc:132
 #: usr/local/www/firewall_shaper.php:55
@@ -6312,26 +6312,26 @@ msgstr ""
 
 #: usr/local/www/diag_backup.php:202
 msgid "VLANS"
-msgstr ""
+msgstr "VLANS"
 
 #: usr/local/www/diag_backup.php:203 usr/local/www/fbegin.inc:159
 #: usr/local/www/services_wol.php:116 usr/local/www/services_wol.php:128
 #: usr/local/www/services_wol_edit.php:116
 msgid "Wake on LAN"
-msgstr ""
+msgstr "Wake on LAN"
 
 #: usr/local/www/diag_backup.php:207
 msgid "ALL"
-msgstr ""
+msgstr "ВСЕ"
 
 #: usr/local/www/diag_backup.php:248 usr/local/www/diag_backup.php:715
 #: usr/local/www/diag_backup.php:752
 msgid "Restore configuration"
-msgstr ""
+msgstr "Восстановить конфигурацию"
 
 #: usr/local/www/diag_backup.php:250
 msgid "Reinstall"
-msgstr ""
+msgstr "Переустановить"
 
 #: usr/local/www/diag_backup.php:252 usr/local/www/diag_backup.php:774
 msgid "Clear Package Lock"
@@ -6342,7 +6342,7 @@ msgstr ""
 #: usr/local/www/exec.php:289
 #: usr/local/www/system_firmware_restorefullbackup.php:167
 msgid "Download"
-msgstr ""
+msgstr "Загрузка"
 
 #: usr/local/www/diag_backup.php:256
 msgid "Restore version"
@@ -22969,6 +22969,7 @@ msgstr ""
 #: usr/local/www/system.php:400
 msgid "Allow DNS server list to be overridden by DHCP/PPP on WAN"
 msgstr ""
+"Разрашить перезапись списка DNS серверов, полученными от DHCP/PPP на WAN"
 
 #: usr/local/www/system.php:403
 #, php-format
@@ -22977,6 +22978,9 @@ msgid ""
 "on WAN for its own purposes (including the DNS forwarder). However, they "
 "will not be assigned to DHCP and PPTP VPN clients."
 msgstr ""
+"Если включена данная опция, %s будет использовать DNS сервера, полученные от "
+"DHCP/PPP сервера на WAN для собственной работы (вкл. DNS переадресацию). "
+"Однако, данные адреса не будут назначаться по DHCP и PPTP VPN клиентам."
 
 #: usr/local/www/system.php:412
 msgid ""
@@ -22993,21 +22997,23 @@ msgstr ""
 
 #: usr/local/www/system.php:421
 msgid "Time zone"
-msgstr ""
+msgstr "Часовой пояс"
 
 #: usr/local/www/system.php:433
 msgid "Select the location closest to you"
-msgstr ""
+msgstr "Выберите наиболее близкое вам местоположение"
 
 #: usr/local/www/system.php:451
 msgid "NTP time server"
-msgstr ""
+msgstr "NTP сервер времени"
 
 #: usr/local/www/system.php:456
 msgid ""
 "Use a space to separate multiple hosts (only one required). Remember to set "
 "up at least one DNS server if you enter a host name here!"
 msgstr ""
+"Используйте пробел для разделения серверов (если необходимо). Не забудьте "
+"настроить хотя бы один DNS если указано имя хоста."
 
 #: usr/local/www/system.php:463
 msgid "Language"
@@ -23023,7 +23029,7 @@ msgstr "Тема оформления"
 
 #: usr/local/www/system.php:509
 msgid "This will change the look and feel of"
-msgstr "Внешний вид pfSense"
+msgstr "Внешний вид"
 
 #: usr/local/www/system_advanced_admin.php:90
 msgid "You must specify a valid webConfigurator port number"
